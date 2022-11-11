@@ -1,4 +1,4 @@
-﻿// WSUTECH: AssingmentOne v1.0.
+﻿// WSUTECH: AssignmentOne v1.0.
 // Build date 11/11/2022.
 // By: jcmurphy.
 // For educational purposes only.
